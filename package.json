@@ -1,0 +1,26 @@
+{
+  "name": "rrKeyEvent",
+  "version": "0.1.0",
+  "description": "Angular Directive to handle keypress events in an easy way",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "keypress",
+    "keyevent",
+    "key",
+    "event"
+  ],
+  "homepage": "https://github.com/ricardoreiter/rrKeyEvent",
+  "author": {
+    "name": "Ricardo Filipe Reiter",
+    "url": "https://github.com/ricardoreiter"
+  },
+  "repository": "ricardoreiter/rrKeyEvent",
+  "license": "MIT",
+  "main": "dist/rrKeyEvent.js",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*"
+  }
+}

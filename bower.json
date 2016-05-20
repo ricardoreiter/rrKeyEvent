@@ -1,0 +1,25 @@
+{
+  "name": "rrKeyEvent",
+  "description": "Angular Directive to handle keypress events in an easy way",
+  "main": "dist/rrKeyEvent.js",
+  "authors": [
+    "Ricardo Filipe Reiter"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "keypress",
+    "keyevent",
+    "key",
+    "event"
+  ],
+  "homepage": "https://github.com/ricardoreiter/rrKeyEvent",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
