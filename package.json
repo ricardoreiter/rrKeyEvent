@@ -1,5 +1,5 @@
 {
-  "name": "rrKeyEvent",
+  "name": "rr-key-event",
   "version": "0.1.0",
   "description": "Angular Directive to handle keypress events in an easy way",
   "keywords": [
